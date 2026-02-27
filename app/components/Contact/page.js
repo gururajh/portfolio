@@ -11,13 +11,13 @@ export default function Contact() {
                     </p>
 
                     <div className={styles.links}>
-                        <a href="mailto:contact@example.com" className={styles.primaryLink}>
+                        <a href="mailto:gururajahegdev@gmail.com" className={styles.primaryLink}>
                             Email Me ✉️
                         </a>
                         <a href="https://github.com/gururajh" target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
                             GitHub 💻
                         </a>
-                        <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
+                        <a href="https://www.linkedin.com/in/gururajahegdev" target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
                             LinkedIn 🤝
                         </a>
                     </div>
