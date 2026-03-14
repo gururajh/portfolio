@@ -2,23 +2,23 @@ import styles from './Expertise.module.css';
 
 const expertiseData = [
     {
-        title: "Test Automation",
-        desc: "Architecting robust frameworks from scratch using Selenium, Playwright, and Cypress for UI and API testing.",
+        title: "Medical & Cloud Testing",
+        desc: "Specialized in testing cloud-deployed applications within regulated environments (ISO 13485, IEC 62304) across mobile & web.",
+        icon: "☁️"
+    },
+    {
+        title: "Automation & API",
+        desc: "Developing effective automation solutions using Playwright (TypeScript) and performing extensive API validations with Postman.",
         icon: "⚙️"
     },
     {
-        title: "Continuous Integration",
-        desc: "Integrating test suites into modern CI/CD pipelines (GitHub Actions, Jenkins) for immediate feedback.",
-        icon: "🚀"
+        title: "Test Strategy & Planning",
+        desc: "Creating comprehensive test plans, protocols, and reusable data models for faster execution and regression cycles.",
+        icon: "📋"
     },
     {
-        title: "Performance & Load",
-        desc: "Ensuring applications remain resilient under heavy load via JMeter and k6 load testing strategies.",
-        icon: "📈"
-    },
-    {
-        title: "Agile Quality",
-        desc: "Embedding QA early in the SDLC, driving 'Shift-Left' strategies, and leading sprint quality metrics.",
+        title: "Agile (SAFe) Quality",
+        desc: "Embedding QA early in the SDLC, managing defect lifecycles, and tracking quality metrics in Azure DevOps and Jira.",
         icon: "🛡️"
     }
 ];

@@ -2,33 +2,33 @@ import styles from './Experience.module.css';
 
 const experiences = [
     {
-        role: "Lead QA Automation Engineer",
-        company: "Current Company",
-        period: "2021 - Present",
+        role: "Senior Quality Assurance Engineer",
+        company: "Oracle India Pvt. Ltd",
+        period: "May 2022 – Present",
         achievements: [
-            "Architected a scalable Playwright automation framework reducing test execution time by 40%.",
-            "Integrated automated suites into GitHub Actions, achieving true continuous deployment.",
-            "Mentored a team of QA engineers to transition from manual to automated testing practices."
+            "Tested core features of cloud-based mobile applications in healthcare domain across Android & iOS.",
+            "Designed & executed manual and automated tests ensuring compliance with release quality gates.",
+            "Created test strategies and reusable test data models for faster test execution and regression cycles."
         ]
     },
     {
-        role: "Senior QA Engineer",
-        company: "Previous Company",
-        period: "2018 - 2021",
+        role: "Senior Quality Engineer",
+        company: "QualiTest India Pvt. Ltd",
+        period: "Nov 2018 – May 2022",
         achievements: [
-            "Developed Selenium WebDriver frameworks leveraging Page Object Model for Web UI.",
-            "Conducted extensive REST API testing using RestAssured and Postman collections.",
-            "Participated in agile sprint plannings to define acceptance criteria and test strategies."
+            "Wrote comprehensive test plans and executed test cases for web-based and mobile healthcare apps.",
+            "Thoroughly validated API functionality and system integrations.",
+            "Tracked quality assurance metrics including defect density and root cause analysis."
         ]
     },
     {
-        role: "QA Analyst",
-        company: "First Company",
-        period: "2015 - 2018",
+        role: "Software Test Engineer",
+        company: "Cardiac Design Labs",
+        period: "Dec 2013 – Apr 2018",
         achievements: [
-            "Executed comprehensive manual test plans for complex enterprise web applications.",
-            "Managed defect tracking lifecycle resulting in a 25% reduction in production escapes.",
-            "Initiated first steps toward automation utilizing basic scripting and tools."
+            "Performed validation of medical device software for regulatory compliance (ISO 13485, IEC 62304).",
+            "Tested cloud-synced applications and APIs for medical telemetry devices.",
+            "Designed and executed functional, integration, and compatibility test scenarios."
         ]
     }
 ];

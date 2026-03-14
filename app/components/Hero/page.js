@@ -6,10 +6,10 @@ export default function Hero() {
             <div className="container">
                 <h1 className={styles.title}>
                     Gururaj Hegde <br />
-                    <span className="text-gradient">Lead QA & Automation Engineer</span>
+                    <span className="text-gradient">Senior QA & Automation Engineer</span>
                 </h1>
                 <p className={styles.subtitle}>
-                    10+ Years of crafting resilient automation frameworks, ensuring continuous quality, and empowering seamless CI/CD pipelines.
+                    ISTQB Certified QA Engineer with 10 years of experience ensuring quality across mobile, cloud, and medical device domains.
                 </p>
                 <div className={styles.ctaGroup}>
                     <a href="#expertise" className={styles.primaryBtn}>Explore Expertise</a>

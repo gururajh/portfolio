@@ -2,20 +2,20 @@ import styles from './TechStack.module.css';
 
 const techGroups = [
     {
-        category: "Automation Frameworks",
-        items: ["Selenium WebDriver", "Playwright", "Cypress", "Appium", "RestAssured"]
+        category: "Automation & API Tools",
+        items: ["Playwright", "Selenium", "Postman"]
     },
     {
-        category: "Languages & Core",
-        items: ["Java", "JavaScript", "TypeScript", "Python", "SQL"]
+        category: "Languages & OS",
+        items: ["TypeScript", "Python", "Windows", "Linux"]
     },
     {
-        category: "CI/CD & DevOps",
-        items: ["Jenkins", "GitHub Actions", "Docker", "Git", "Maven/Gradle"]
+        category: "Test Management & Defect Tracking",
+        items: ["Jira", "Bugzilla", "Azure DevOps"]
     },
     {
-        category: "Testing & Management",
-        items: ["JIRA", "TestRail", "Postman", "JMeter", "Allure"]
+        category: "Standards & Compliance",
+        items: ["ISO 13485", "IEC 62304", "HIPAA", "DICOM", "HL7"]
     }
 ];
 
